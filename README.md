@@ -1,6 +1,7 @@
 # 📚 Estudos de SQL
 
 Repositório dedicado ao armazenamento de scripts e consultas SQL desenvolvidos durante os meus estudos de Banco de Dados.
+Atualmente estou fazendo um curso de SQL, do básico ao avançado na Udemy com o André lacono.
 
 ## 📁 Conteúdo
 
